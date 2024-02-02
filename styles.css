@@ -84,7 +84,7 @@ img {
 }
 
 
-@media (max-width: 375px) {
+@media (mix-width: 675px) {
     .navbar {
         font-size: 1.4rem;
     }
